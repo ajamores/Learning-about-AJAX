@@ -26,4 +26,4 @@ This repository contains the code for a webpage that demonstrates the use of AJA
 
 ![image](https://i.imgur.com/b8IzZE7.png)
 ![image](https://i.imgur.com/wa5jOnk.png)
-![image](https://imgur.com/a/no5r3Fl)
+![image](https://i.imgur.com/BKzGyLW.png)

@@ -1,0 +1,20 @@
+/**
+    Author: Armand Amores
+    ID: 000315902
+    Date: 04/04/2023
+    Styles for AJAX assignment 
+*/
+body {
+    background-color: lightgray;
+}
+
+header h1{
+    font-size: xx-large;
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin: auto;
+    height: 100px;
+}
